@@ -1,0 +1,281 @@
+courseCode,title,creditHours,degreeProgramName,semesterName,teacherEmployeeId
+CS101,Programming Fundamentals,3,BS Computer Science,Spring 2025,006
+CS102,Calculus,3,BS Computer Science,Spring 2025,007
+CS103,English Composition,2,BS Computer Science,Spring 2025,008
+CS104,Islamic Studies,2,BS Computer Science,Spring 2025,009
+CS105,Applied Physics,3,BS Computer Science,Spring 2025,010
+CS201,Object Oriented Programming,3,BS Computer Science,Fall 2025,011
+CS202,Discrete Mathematics,3,BS Computer Science,Fall 2025,012
+CS203,Digital Logic Design,3,BS Computer Science,Fall 2025,013
+CS204,Communication Skills,2,BS Computer Science,Fall 2025,014
+CS205,Linear Algebra,3,BS Computer Science,Fall 2025,015
+CS301,Data Structures,3,BS Computer Science,Spring 2026,016
+CS302,Database Systems,3,BS Computer Science,Spring 2026,017
+CS303,Computer Organization,3,BS Computer Science,Spring 2026,018
+CS304,Statistics,3,BS Computer Science,Spring 2026,019
+CS305,Technical Writing,2,BS Computer Science,Spring 2026,020
+CS401,Algorithms,3,BS Computer Science,Fall 2026,021
+CS402,Operating Systems,3,BS Computer Science,Fall 2026,022
+CS403,Computer Networks,3,BS Computer Science,Fall 2026,023
+CS404,Software Engineering,3,BS Computer Science,Fall 2026,024
+CS405,Probability Theory,3,BS Computer Science,Fall 2026,025
+CS501,Artificial Intelligence,3,BS Computer Science,Spring 2027,026
+CS502,Compiler Construction,3,BS Computer Science,Spring 2027,027
+CS503,Information Security,3,BS Computer Science,Spring 2027,028
+CS504,Web Technologies,3,BS Computer Science,Spring 2027,029
+CS505,Numerical Methods,3,BS Computer Science,Spring 2027,030
+CS601,Machine Learning,3,BS Computer Science,Fall 2027,031
+CS602,Cloud Computing,3,BS Computer Science,Fall 2027,032
+CS603,Distributed Systems,3,BS Computer Science,Fall 2027,033
+CS604,Mobile App Development,3,BS Computer Science,Fall 2027,034
+CS605,Research Methodology,3,BS Computer Science,Fall 2027,035
+CS701,Deep Learning,3,BS Computer Science,Spring 2028,036
+CS702,Big Data Analytics,3,BS Computer Science,Spring 2028,037
+CS703,Blockchain Technology,3,BS Computer Science,Spring 2028,038
+CS704,Computer Vision,3,BS Computer Science,Spring 2028,039
+CS705,Project Management,3,BS Computer Science,Spring 2028,040
+CS801,Final Year Project,6,BS Computer Science,Fall 2028,041
+CS802,Entrepreneurship,3,BS Computer Science,Fall 2028,042
+CS803,Professional Ethics,2,BS Computer Science,Fall 2028,043
+CS804,Internet of Things,3,BS Computer Science,Fall 2028,044
+CS805,Quantum Computing,3,BS Computer Science,Fall 2028,045
+CYS101,Programming Fundamentals,3,BS Cyber Security,Spring 2025,046
+CYS102,Calculus,3,BS Cyber Security,Spring 2025,047
+CYS103,English Composition,2,BS Cyber Security,Spring 2025,048
+CYS104,Islamic Studies,2,BS Cyber Security,Spring 2025,049
+CYS105,Applied Physics,3,BS Cyber Security,Spring 2025,050
+CYS201,Object Oriented Programming,3,BS Cyber Security,Fall 2025,051
+CYS202,Discrete Mathematics,3,BS Cyber Security,Fall 2025,052
+CYS203,Digital Logic Design,3,BS Cyber Security,Fall 2025,053
+CYS204,Communication Skills,2,BS Cyber Security,Fall 2025,054
+CYS205,Linear Algebra,3,BS Cyber Security,Fall 2025,055
+CYS301,Data Structures,3,BS Cyber Security,Spring 2026,056
+CYS302,Database Systems,3,BS Cyber Security,Spring 2026,057
+CYS303,Network Security,3,BS Cyber Security,Spring 2026,058
+CYS304,Statistics,3,BS Cyber Security,Spring 2026,059
+CYS305,Technical Writing,2,BS Cyber Security,Spring 2026,060
+CYS401,Algorithms,3,BS Cyber Security,Fall 2026,061
+CYS402,Operating Systems,3,BS Cyber Security,Fall 2026,062
+CYS403,Ethical Hacking,3,BS Cyber Security,Fall 2026,063
+CYS404,Cryptography,3,BS Cyber Security,Fall 2026,064
+CYS405,Probability Theory,3,BS Cyber Security,Fall 2026,065
+CYS501,Malware Analysis,3,BS Cyber Security,Spring 2027,066
+CYS502,Penetration Testing,3,BS Cyber Security,Spring 2027,067
+CYS503,Information Security,3,BS Cyber Security,Spring 2027,068
+CYS504,Web Security,3,BS Cyber Security,Spring 2027,069
+CYS505,Numerical Methods,3,BS Cyber Security,Spring 2027,070
+CYS601,Digital Forensics,3,BS Cyber Security,Fall 2027,071
+CYS602,Cloud Security,3,BS Cyber Security,Fall 2027,072
+CYS603,Distributed Systems,3,BS Cyber Security,Fall 2027,073
+CYS604,Mobile Security,3,BS Cyber Security,Fall 2027,074
+CYS605,Research Methodology,3,BS Cyber Security,Fall 2027,075
+CYS701,Cyber Threat Intelligence,3,BS Cyber Security,Spring 2028,076
+CYS702,Incident Response,3,BS Cyber Security,Spring 2028,077
+CYS703,Blockchain Security,3,BS Cyber Security,Spring 2028,078
+CYS704,IoT Security,3,BS Cyber Security,Spring 2028,079
+CYS705,Project Management,3,BS Cyber Security,Spring 2028,080
+CYS801,Final Year Project,6,BS Cyber Security,Fall 2028,081
+CYS802,Entrepreneurship,3,BS Cyber Security,Fall 2028,082
+CYS803,Professional Ethics,2,BS Cyber Security,Fall 2028,083
+CYS804,Security Operations,3,BS Cyber Security,Fall 2028,084
+CYS805,Quantum Cryptography,3,BS Cyber Security,Fall 2028,085
+ROB101,Programming Fundamentals,3,BS Robotics,Spring 2025,086
+ROB102,Calculus,3,BS Robotics,Spring 2025,087
+ROB103,English Composition,2,BS Robotics,Spring 2025,088
+ROB104,Islamic Studies,2,BS Robotics,Spring 2025,089
+ROB105,Applied Physics,3,BS Robotics,Spring 2025,090
+ROB201,Object Oriented Programming,3,BS Robotics,Fall 2025,091
+ROB202,Discrete Mathematics,3,BS Robotics,Fall 2025,092
+ROB203,Digital Logic Design,3,BS Robotics,Fall 2025,093
+ROB204,Communication Skills,2,BS Robotics,Fall 2025,094
+ROB205,Linear Algebra,3,BS Robotics,Fall 2025,095
+ROB301,Data Structures,3,BS Robotics,Spring 2026,096
+ROB302,Database Systems,3,BS Robotics,Spring 2026,097
+ROB303,Robot Kinematics,3,BS Robotics,Spring 2026,098
+ROB304,Statistics,3,BS Robotics,Spring 2026,099
+ROB305,Technical Writing,2,BS Robotics,Spring 2026,100
+ROB401,Algorithms,3,BS Robotics,Fall 2026,101
+ROB402,Operating Systems,3,BS Robotics,Fall 2026,102
+ROB403,Control Systems,3,BS Robotics,Fall 2026,103
+ROB404,Embedded Systems,3,BS Robotics,Fall 2026,104
+ROB405,Probability Theory,3,BS Robotics,Fall 2026,105
+ROB501,Artificial Intelligence,3,BS Robotics,Spring 2027,106
+ROB502,Machine Vision,3,BS Robotics,Spring 2027,107
+ROB503,Sensors and Actuators,3,BS Robotics,Spring 2027,108
+ROB504,Robot Programming,3,BS Robotics,Spring 2027,109
+ROB505,Numerical Methods,3,BS Robotics,Spring 2027,110
+ROB601,Machine Learning,3,BS Robotics,Fall 2027,111
+ROB602,Autonomous Systems,3,BS Robotics,Fall 2027,112
+ROB603,Distributed Systems,3,BS Robotics,Fall 2027,113
+ROB604,Human Robot Interaction,3,BS Robotics,Fall 2027,114
+ROB605,Research Methodology,3,BS Robotics,Fall 2027,115
+ROB701,Deep Learning,3,BS Robotics,Spring 2028,116
+ROB702,Robot Navigation,3,BS Robotics,Spring 2028,117
+ROB703,Drone Technology,3,BS Robotics,Spring 2028,118
+ROB704,Industrial Robotics,3,BS Robotics,Spring 2028,119
+ROB705,Project Management,3,BS Robotics,Spring 2028,120
+ROB801,Final Year Project,6,BS Robotics,Fall 2028,121
+ROB802,Entrepreneurship,3,BS Robotics,Fall 2028,122
+ROB803,Professional Ethics,2,BS Robotics,Fall 2028,123
+ROB804,Swarm Robotics,3,BS Robotics,Fall 2028,124
+ROB805,Quantum Computing,3,BS Robotics,Fall 2028,125
+SE101,Programming Fundamentals,3,BS Software Engineering,Spring 2025,126
+SE102,Calculus,3,BS Software Engineering,Spring 2025,127
+SE103,English Composition,2,BS Software Engineering,Spring 2025,128
+SE104,Islamic Studies,2,BS Software Engineering,Spring 2025,129
+SE105,Applied Physics,3,BS Software Engineering,Spring 2025,130
+SE201,Object Oriented Programming,3,BS Software Engineering,Fall 2025,131
+SE202,Discrete Mathematics,3,BS Software Engineering,Fall 2025,132
+SE203,Digital Logic Design,3,BS Software Engineering,Fall 2025,133
+SE204,Communication Skills,2,BS Software Engineering,Fall 2025,134
+SE205,Linear Algebra,3,BS Software Engineering,Fall 2025,135
+SE301,Data Structures,3,BS Software Engineering,Spring 2026,136
+SE302,Database Systems,3,BS Software Engineering,Spring 2026,137
+SE303,Software Requirements Engineering,3,BS Software Engineering,Spring 2026,138
+SE304,Statistics,3,BS Software Engineering,Spring 2026,139
+SE305,Technical Writing,2,BS Software Engineering,Spring 2026,140
+SE401,Algorithms,3,BS Software Engineering,Fall 2026,141
+SE402,Operating Systems,3,BS Software Engineering,Fall 2026,142
+SE403,Software Design Patterns,3,BS Software Engineering,Fall 2026,143
+SE404,Software Testing,3,BS Software Engineering,Fall 2026,144
+SE405,Probability Theory,3,BS Software Engineering,Fall 2026,145
+SE501,Artificial Intelligence,3,BS Software Engineering,Spring 2027,146
+SE502,Software Architecture,3,BS Software Engineering,Spring 2027,147
+SE503,Information Security,3,BS Software Engineering,Spring 2027,148
+SE504,Web Engineering,3,BS Software Engineering,Spring 2027,149
+SE505,Numerical Methods,3,BS Software Engineering,Spring 2027,150
+SE601,Machine Learning,3,BS Software Engineering,Fall 2027,151
+SE602,Cloud Computing,3,BS Software Engineering,Fall 2027,152
+SE603,DevOps,3,BS Software Engineering,Fall 2027,153
+SE604,Mobile App Development,3,BS Software Engineering,Fall 2027,154
+SE605,Research Methodology,3,BS Software Engineering,Fall 2027,155
+SE701,Deep Learning,3,BS Software Engineering,Spring 2028,156
+SE702,Big Data Analytics,3,BS Software Engineering,Spring 2028,157
+SE703,Blockchain Technology,3,BS Software Engineering,Spring 2028,158
+SE704,Software Project Management,3,BS Software Engineering,Spring 2028,159
+SE705,Agile Methodologies,3,BS Software Engineering,Spring 2028,160
+SE801,Final Year Project,6,BS Software Engineering,Fall 2028,161
+SE802,Entrepreneurship,3,BS Software Engineering,Fall 2028,162
+SE803,Professional Ethics,2,BS Software Engineering,Fall 2028,163
+SE804,Internet of Things,3,BS Software Engineering,Fall 2028,164
+SE805,Quantum Computing,3,BS Software Engineering,Fall 2028,165
+DS101,Programming Fundamentals,3,BS Data Science,Spring 2025,166
+DS102,Calculus,3,BS Data Science,Spring 2025,167
+DS103,English Composition,2,BS Data Science,Spring 2025,168
+DS104,Islamic Studies,2,BS Data Science,Spring 2025,169
+DS105,Applied Physics,3,BS Data Science,Spring 2025,170
+DS201,Object Oriented Programming,3,BS Data Science,Fall 2025,171
+DS202,Discrete Mathematics,3,BS Data Science,Fall 2025,172
+DS203,Digital Logic Design,3,BS Data Science,Fall 2025,173
+DS204,Communication Skills,2,BS Data Science,Fall 2025,174
+DS205,Linear Algebra,3,BS Data Science,Fall 2025,175
+DS301,Data Structures,3,BS Data Science,Spring 2026,176
+DS302,Database Systems,3,BS Data Science,Spring 2026,177
+DS303,Data Visualization,3,BS Data Science,Spring 2026,178
+DS304,Statistics,3,BS Data Science,Spring 2026,179
+DS305,Technical Writing,2,BS Data Science,Spring 2026,180
+DS401,Algorithms,3,BS Data Science,Fall 2026,181
+DS402,Operating Systems,3,BS Data Science,Fall 2026,182
+DS403,Data Mining,3,BS Data Science,Fall 2026,183
+DS404,Statistical Inference,3,BS Data Science,Fall 2026,184
+DS405,Probability Theory,3,BS Data Science,Fall 2026,185
+DS501,Artificial Intelligence,3,BS Data Science,Spring 2027,186
+DS502,Machine Learning,3,BS Data Science,Spring 2027,187
+DS503,Information Security,3,BS Data Science,Spring 2027,188
+DS504,Big Data Technologies,3,BS Data Science,Spring 2027,189
+DS505,Numerical Methods,3,BS Data Science,Spring 2027,190
+DS601,Deep Learning,3,BS Data Science,Fall 2027,191
+DS602,Cloud Computing,3,BS Data Science,Fall 2027,192
+DS603,Distributed Systems,3,BS Data Science,Fall 2027,193
+DS604,Natural Language Processing,3,BS Data Science,Fall 2027,194
+DS605,Research Methodology,3,BS Data Science,Fall 2027,195
+DS701,Computer Vision,3,BS Data Science,Spring 2028,196
+DS702,Reinforcement Learning,3,BS Data Science,Spring 2028,197
+DS703,Blockchain Technology,3,BS Data Science,Spring 2028,198
+DS704,Data Engineering,3,BS Data Science,Spring 2028,199
+DS705,Project Management,3,BS Data Science,Spring 2028,200
+DS801,Final Year Project,6,BS Data Science,Fall 2028,201
+DS802,Entrepreneurship,3,BS Data Science,Fall 2028,202
+DS803,Professional Ethics,2,BS Data Science,Fall 2028,203
+DS804,Time Series Analysis,3,BS Data Science,Fall 2028,204
+DS805,Quantum Computing,3,BS Data Science,Fall 2028,205
+AI101,Programming Fundamentals,3,BS Artificial Intelligence,Spring 2025,206
+AI102,Calculus,3,BS Artificial Intelligence,Spring 2025,207
+AI103,English Composition,2,BS Artificial Intelligence,Spring 2025,208
+AI104,Islamic Studies,2,BS Artificial Intelligence,Spring 2025,209
+AI105,Applied Physics,3,BS Artificial Intelligence,Spring 2025,210
+AI201,Object Oriented Programming,3,BS Artificial Intelligence,Fall 2025,211
+AI202,Discrete Mathematics,3,BS Artificial Intelligence,Fall 2025,212
+AI203,Digital Logic Design,3,BS Artificial Intelligence,Fall 2025,213
+AI204,Communication Skills,2,BS Artificial Intelligence,Fall 2025,214
+AI205,Linear Algebra,3,BS Artificial Intelligence,Fall 2025,215
+AI301,Data Structures,3,BS Artificial Intelligence,Spring 2026,216
+AI302,Database Systems,3,BS Artificial Intelligence,Spring 2026,217
+AI303,Artificial Intelligence,3,BS Artificial Intelligence,Spring 2026,218
+AI304,Statistics,3,BS Artificial Intelligence,Spring 2026,219
+AI305,Technical Writing,2,BS Artificial Intelligence,Spring 2026,220
+AI401,Algorithms,3,BS Artificial Intelligence,Fall 2026,221
+AI402,Operating Systems,3,BS Artificial Intelligence,Fall 2026,222
+AI403,Machine Learning,3,BS Artificial Intelligence,Fall 2026,223
+AI404,Neural Networks,3,BS Artificial Intelligence,Fall 2026,224
+AI405,Probability Theory,3,BS Artificial Intelligence,Fall 2026,225
+AI501,Deep Learning,3,BS Artificial Intelligence,Spring 2027,226
+AI502,Computer Vision,3,BS Artificial Intelligence,Spring 2027,227
+AI503,Information Security,3,BS Artificial Intelligence,Spring 2027,228
+AI504,Natural Language Processing,3,BS Artificial Intelligence,Spring 2027,229
+AI505,Numerical Methods,3,BS Artificial Intelligence,Spring 2027,230
+AI601,Reinforcement Learning,3,BS Artificial Intelligence,Fall 2027,231
+AI602,Cloud Computing,3,BS Artificial Intelligence,Fall 2027,232
+AI603,Distributed Systems,3,BS Artificial Intelligence,Fall 2027,233
+AI604,Generative AI,3,BS Artificial Intelligence,Fall 2027,234
+AI605,Research Methodology,3,BS Artificial Intelligence,Fall 2027,235
+AI701,AI Ethics,3,BS Artificial Intelligence,Spring 2028,236
+AI702,Robotics,3,BS Artificial Intelligence,Spring 2028,237
+AI703,Blockchain Technology,3,BS Artificial Intelligence,Spring 2028,238
+AI704,AI for Healthcare,3,BS Artificial Intelligence,Spring 2028,239
+AI705,Project Management,3,BS Artificial Intelligence,Spring 2028,240
+AI801,Final Year Project,6,BS Artificial Intelligence,Fall 2028,241
+AI802,Entrepreneurship,3,BS Artificial Intelligence,Fall 2028,242
+AI803,Professional Ethics,2,BS Artificial Intelligence,Fall 2028,243
+AI804,Autonomous Systems,3,BS Artificial Intelligence,Fall 2028,244
+AI805,Quantum Computing,3,BS Artificial Intelligence,Fall 2028,245
+IOT101,Programming Fundamentals,3,BS Internet of Things,Spring 2025,246
+IOT102,Calculus,3,BS Internet of Things,Spring 2025,247
+IOT103,English Composition,2,BS Internet of Things,Spring 2025,248
+IOT104,Islamic Studies,2,BS Internet of Things,Spring 2025,249
+IOT105,Applied Physics,3,BS Internet of Things,Spring 2025,250
+IOT201,Object Oriented Programming,3,BS Internet of Things,Fall 2025,251
+IOT202,Discrete Mathematics,3,BS Internet of Things,Fall 2025,252
+IOT203,Digital Logic Design,3,BS Internet of Things,Fall 2025,253
+IOT204,Communication Skills,2,BS Internet of Things,Fall 2025,254
+IOT205,Linear Algebra,3,BS Internet of Things,Fall 2025,255
+IOT301,Data Structures,3,BS Internet of Things,Spring 2026,256
+IOT302,Database Systems,3,BS Internet of Things,Spring 2026,257
+IOT303,IoT Fundamentals,3,BS Internet of Things,Spring 2026,258
+IOT304,Statistics,3,BS Internet of Things,Spring 2026,259
+IOT305,Technical Writing,2,BS Internet of Things,Spring 2026,260
+IOT401,Algorithms,3,BS Internet of Things,Fall 2026,261
+IOT402,Operating Systems,3,BS Internet of Things,Fall 2026,262
+IOT403,Embedded Systems,3,BS Internet of Things,Fall 2026,263
+IOT404,Wireless Networks,3,BS Internet of Things,Fall 2026,264
+IOT405,Probability Theory,3,BS Internet of Things,Fall 2026,265
+IOT501,Artificial Intelligence,3,BS Internet of Things,Spring 2027,266
+IOT502,Machine Learning,3,BS Internet of Things,Spring 2027,267
+IOT503,IoT Security,3,BS Internet of Things,Spring 2027,268
+IOT504,Cloud Computing for IoT,3,BS Internet of Things,Spring 2027,269
+IOT505,Numerical Methods,3,BS Internet of Things,Spring 2027,270
+IOT601,Deep Learning,3,BS Internet of Things,Fall 2027,271
+IOT602,Edge Computing,3,BS Internet of Things,Fall 2027,272
+IOT603,Distributed Systems,3,BS Internet of Things,Fall 2027,273
+IOT604,Smart Systems Design,3,BS Internet of Things,Fall 2027,274
+IOT605,Research Methodology,3,BS Internet of Things,Fall 2027,275
+IOT701,Industrial IoT,3,BS Internet of Things,Spring 2028,276
+IOT702,Autonomous Systems,3,BS Internet of Things,Spring 2028,277
+IOT703,Blockchain for IoT,3,BS Internet of Things,Spring 2028,278
+IOT704,Digital Twins,3,BS Internet of Things,Spring 2028,279
+IOT705,Project Management,3,BS Internet of Things,Spring 2028,280
+IOT801,Final Year Project,6,BS Internet of Things,Fall 2028,281
+IOT802,Entrepreneurship,3,BS Internet of Things,Fall 2028,282
+IOT803,Professional Ethics,2,BS Internet of Things,Fall 2028,283
+IOT804,IoT Analytics,3,BS Internet of Things,Fall 2028,284
+IOT805,Quantum Computing,3,BS Internet of Things,Fall 2028,285

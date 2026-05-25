@@ -1,0 +1,36 @@
+regNo,rollNo,name,email,phone,password,degreeProgramName
+CS-2025-001,BSCS-01,Ahmed Raza,ahmed@superior.edu.pk,0319-1234567,1234,BS Computer Science
+CS-2025-002,BSCS-02,Fatima Malik,fatima@superior.edu.pk,0319-1234567,1234,BS Computer Science
+CS-2025-003,BSCS-03,Hassan Ali,hassan@superior.edu.pk,0319-1234567,1234,BS Computer Science
+CS-2025-004,BSCS-04,Sana Iqbal,sana@superior.edu.pk,0319-1234567,1234,BS Computer Science
+CS-2025-005,BSCS-05,Usman Khan,usman@superior.edu.pk,0319-1234567,1234,BS Computer Science
+CYS-2025-001,BSCYS-01,Zara Ahmed,zara@superior.edu.pk,0319-1234567,1234,BS Cyber Security
+CYS-2025-002,BSCYS-02,Bilal Hussain,bilal@superior.edu.pk,0319-1234567,1234,BS Cyber Security
+CYS-2025-003,BSCYS-03,Ayesha Noor,ayesha@superior.edu.pk,0319-1234567,1234,BS Cyber Security
+CYS-2025-004,BSCYS-04,Hamza Tariq,hamza@superior.edu.pk,0319-1234567,1234,BS Cyber Security
+CYS-2025-005,BSCYS-05,Nadia Sheikh,nadia@superior.edu.pk,0319-1234567,1234,BS Cyber Security
+ROB-2025-001,BSROB-01,Asad Mehmood,asad@superior.edu.pk,0319-1234567,1234,BS Robotics
+ROB-2025-002,BSROB-02,Hina Baig,hina@superior.edu.pk,0319-1234567,1234,BS Robotics
+ROB-2025-003,BSROB-03,Omer Farooq,omer@superior.edu.pk,0319-1234567,1234,BS Robotics
+ROB-2025-004,BSROB-04,Maham Rizvi,maham@superior.edu.pk,0319-1234567,1234,BS Robotics
+ROB-2025-005,BSROB-05,Talha Qureshi,talha@superior.edu.pk,0319-1234567,1234,BS Robotics
+SE-2025-001,BSSE-01,Rabia Shahid,rabia@superior.edu.pk,0319-1234567,1234,BS Software Engineering
+SE-2025-002,BSSE-02,Kamran Mirza,kamran@superior.edu.pk,0319-1234567,1234,BS Software Engineering
+SE-2025-003,BSSE-03,Zainab Aslam,zainab@superior.edu.pk,0319-1234567,1234,BS Software Engineering
+SE-2025-004,BSSE-04,Danish Saeed,danish@superior.edu.pk,0319-1234567,1234,BS Software Engineering
+SE-2025-005,BSSE-05,Amna Tariq,amna@superior.edu.pk,0319-1234567,1234,BS Software Engineering
+DS-2025-001,BSDS-01,Shahzad Ali,shahzad@superior.edu.pk,0319-1234567,1234,BS Data Science
+DS-2025-002,BSDS-02,Huma Naseer,huma@superior.edu.pk,0319-1234567,1234,BS Data Science
+DS-2025-003,BSDS-03,Faisal Ahmed,faisal@superior.edu.pk,0319-1234567,1234,BS Data Science
+DS-2025-004,BSDS-04,Mehwish Khan,mehwish@superior.edu.pk,0319-1234567,1234,BS Data Science
+DS-2025-005,BSDS-05,Imran Malik,imran@superior.edu.pk,0319-1234567,1234,BS Data Science
+AI-2025-001,BSAI-01,Sadia Hussain,sadia@superior.edu.pk,0319-1234567,1234,BS Artificial Intelligence
+AI-2025-002,BSAI-02,Umar Baig,umar@superior.edu.pk,0319-1234567,1234,BS Artificial Intelligence
+AI-2025-003,BSAI-03,Noor Fatima,noor@superior.edu.pk,0319-1234567,1234,BS Artificial Intelligence
+AI-2025-004,BSAI-04,Ali Raza,ali@superior.edu.pk,0319-1234567,1234,BS Artificial Intelligence
+AI-2025-005,BSAI-05,Sara Qureshi,sara@superior.edu.pk,0319-1234567,1234,BS Artificial Intelligence
+IOT-2025-001,BSIOT-01,Junaid Sheikh,junaid@superior.edu.pk,0319-1234567,1234,BS Internet of Things
+IOT-2025-002,BSIOT-02,Mariam Tariq,mariam@superior.edu.pk,0319-1234567,1234,BS Internet of Things
+IOT-2025-003,BSIOT-03,Usama Farooq,usama@superior.edu.pk,0319-1234567,1234,BS Internet of Things
+IOT-2025-004,BSIOT-04,Iqra Malik,iqra@superior.edu.pk,0319-1234567,1234,BS Internet of Things
+IOT-2025-005,BSIOT-05,Saad Hussain,saad@superior.edu.pk,0319-1234567,1234,BS Internet of Things
